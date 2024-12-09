@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">date</Data></Cell>
+			<Cell><Data ss:Type="String">total_gross_sales_mln</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">2021-12-01</Data></Cell>
+			<Cell><Data ss:Type="Number">19.54</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2021-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">13.91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2021-09-01</Data></Cell>
+			<Cell><Data ss:Type="Number">11.19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2020-12-01</Data></Cell>
+			<Cell><Data ss:Type="Number">4.08</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2020-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">3.11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2021-02-01</Data></Cell>
+			<Cell><Data ss:Type="Number">2.36</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2021-08-01</Data></Cell>
+			<Cell><Data ss:Type="Number">2.35</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2021-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">2.30</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2020-09-01</Data></Cell>
+			<Cell><Data ss:Type="Number">2.30</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2021-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">2.29</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2021-04-01</Data></Cell>
+			<Cell><Data ss:Type="Number">2.25</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2021-05-01</Data></Cell>
+			<Cell><Data ss:Type="Number">2.18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2019-12-01</Data></Cell>
+			<Cell><Data ss:Type="Number">1.49</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2019-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">1.09</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2020-02-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.86</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2019-09-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2020-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2020-08-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2018-12-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2018-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.44</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2019-04-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.38</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2020-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.36</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2019-02-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.36</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2019-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.36</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2019-08-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.34</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2019-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.34</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2019-05-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.34</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2018-09-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.34</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2017-12-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.25</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2017-10-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2020-05-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2018-02-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2018-05-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2018-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2018-04-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2020-04-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2018-08-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2018-06-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2017-09-01</Data></Cell>
+			<Cell><Data ss:Type="Number">0.12</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
